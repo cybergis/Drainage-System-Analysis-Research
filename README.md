@@ -13,3 +13,6 @@ In order to execute this code, user can to download the data at: https://drive.g
 
 And this notebook can be executed at cybergisx platform at: https://cybergisxhub.cigi.illinois.edu/
 
+In order to run it on HPC, samply 
+
+## ./run.sh
