@@ -9,9 +9,9 @@ Drainage network analysis is fundamental to understanding the characteristics of
 
 This notebook is a sample notebook for running a small size dataset (from the LiDAR dataset of Rowan Watershed) with the proposed method for drainage system analysis. The algorithm is implemented with an execuation sample dataset.
 
-In order to execute this code, user can to download the data at: https://drive.google.com/file/d/1JOl1IylIZg72QdMM89xs10NLFk4rObml/view?usp=sharing
+The sample data is available at: https://drive.google.com/file/d/1JOl1IylIZg72QdMM89xs10NLFk4rObml/view?usp=sharing
 
-And this notebook can be executed at cybergisx platform at: https://cybergisxhub.cigi.illinois.edu/
+And this notebook can be executed at cybergisx platform: [Open With CyberGISX](https://cybergisx.cigi.illinois.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fcybergis%2FDrainage-System-Analysis-Research&urlpath=tree%2FDrainage-System-Analysis-Research%2FVB_Drainage_System_Analysis.ipynb)
 
 In order to run it on HPC, samply 
 
