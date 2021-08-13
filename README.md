@@ -15,4 +15,6 @@ And this notebook can be executed at cybergisx platform at: https://cybergisxhub
 
 In order to run it on HPC, samply 
 
-## ./run.sh
+git clone this/repo
+scp path/to/data
+./run.sh
